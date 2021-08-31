@@ -19,5 +19,11 @@
   },{
     "tag" : "Angular + Node",
     "icon" : "https://raw.githubusercontent.com/alvarogarcias/structurizrtheme/main/angular_node.png"
+  },{
+    "tag" : "Node",
+    "icon" : "https://raw.githubusercontent.com/alvarogarcias/structurizrtheme/main/node.png"
+  },{
+    "tag" : "Java",
+    "icon" : "https://raw.githubusercontent.com/alvarogarcias/structurizrtheme/main/java.png"
   } ]
 }
