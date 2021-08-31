@@ -16,5 +16,8 @@
   },{
     "tag" : "Angular + Spring Boot",
     "icon" : "https://raw.githubusercontent.com/alvarogarcias/structurizrtheme/main/angular_spring.png"
+  },{
+    "tag" : "Angular + Node",
+    "icon" : "https://raw.githubusercontent.com/alvarogarcias/structurizrtheme/main/angular_node.png"
   } ]
 }
