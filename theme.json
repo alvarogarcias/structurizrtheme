@@ -31,5 +31,8 @@
   },{
     "tag" : "dotNET",
     "icon" : "https://raw.githubusercontent.com/alvarogarcias/structurizrtheme/main/net.png"
+  },{
+    "tag" : "sqlServer",
+    "icon" : "https://raw.githubusercontent.com/alvarogarcias/structurizrtheme/main/sqlserver.png"
   } ]
-} 
+}
