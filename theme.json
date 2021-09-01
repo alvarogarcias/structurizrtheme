@@ -1,6 +1,6 @@
 {
-  "name" : "Amazon Web Services",
-  "description" : "This theme includes element styles with icons for each of the AWS services, based upon the AWS Architecture Icons (https://aws.amazon.com/architecture/icons/).",
+  "name" : "Structurizr Sportium theme",
+  "description" : "Structurizr Sportium theme",
   "elements" : [ {
     "tag" : "AngularJS",
     "icon" : "https://raw.githubusercontent.com/alvarogarcias/structurizrtheme/main/angularjs.png"
